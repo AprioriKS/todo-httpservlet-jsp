@@ -54,7 +54,6 @@ pageEncoding="UTF-8"%>
             </tr>
             </thead>
             <tbody>
-            <!--   for (Todo todo: todos) {  -->
             <c:forEach var="todo" items="${listTodo}">
 
                 <tr>
